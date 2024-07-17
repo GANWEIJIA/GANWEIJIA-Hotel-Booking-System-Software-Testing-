@@ -1,0 +1,6 @@
+Abu,VIP,false,3,3,0,0
+Ali,VIP,false,2,2,0,0
+Ali,VIP,false,1,1,0,0
+John,Normal,true,1,0,1,0
+Smith,Normal,false,1,0,1,0
+Will,Normal,false,1,0,0,1

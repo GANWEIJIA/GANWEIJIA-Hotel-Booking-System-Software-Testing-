@@ -1,0 +1,9 @@
+Ali,VIP,true,2
+Ali,VIP,true,4
+Ali,Maxis,true,3
+Adam,Normal,InvalidBoolean,1
+Adam,Normal,InvalidBoolean,20
+Adam,Normal,true,0
+Ali,VIP,true,2
+Adam,Normal,true,abc
+Amat,Non-member,true,2
